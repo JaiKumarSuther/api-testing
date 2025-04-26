@@ -10,10 +10,8 @@ npm or Yarn
 
 📦 Installation
 Clone the repository:
-git clone https://github.com/yugandharc9/scan2lab.git
 
 Navigate into the project directory:
-cd scan2lab
 
 Install the dependencies:
 npm install
